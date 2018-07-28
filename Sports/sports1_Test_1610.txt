@@ -1,0 +1,46 @@
+STANFORD, Calif. — It did not seem especially noteworthy when Angelique Kerber summoned her coach, Torben Beltz, after the first set of her opening match at the Bank of the West Classic here last week. Under WTA rules since 2008, players can call for 90-second on-court coaching visits once per set.
+But there was a twist. Beltz was able to fortify his burst of advice with nearly real-time data delivered from a WTA-issued iPad he had been monitoring in his seat.
+Beltz told Kerber that her opponent, Daria Gavrilova, was serving to her backhand nearly every time.
+Kerber, ranked 11th, went on to win the tournament, beating Karolina Pliskova, 6-3, 5-7, 6-4, on Sunday for her fourth title of 2015.
+It is impossible to know if Beltz’s added layer of data was a key to Kerber’s victory in the first round or in the days that followed. But the bigger and perhaps more intriguing question is whether this new trove of in-match and historical data will alter the player-coach dynamic.
+“I think the coach becomes that much more important because they have to figure out what message to relay that will have the most impact,” said Mary Joe Fernandez, the United States Fed Cup captain and a commentator for ESPN.
+The Bank of the West Classic was the first event in which players and coaches were able to use the data-laden tablets. They will be tested at six other WTA tournaments this year, including the Rogers Cup in Toronto this week.
+The iPads’ cloud-based software was developed by SAP, the WTA’s technology partner since 2013. The custom-designed tablets have advanced information beyond the normal statistics relayed from a chair umpire, like aces, double faults and serving percentages.
+Using data and graphics gleaned from the electronic line-calling system Hawk-Eye, coaches can target a range of situational and positional information, including where an opponent is standing to return serve or a tactical tendency when facing break point.
+“I can only think it’s going to help the level of tennis out there,” said Lindsay Davenport, a former No. 1 player who now coaches the rising American Madison Keys.
+It could also open a Pandora’s box of coaching quandaries: What is the right information, and the right amount, to relay in 90 seconds? When is the best time to use tactical information versus other coaching help, like technical or emotional advice?
+“It doesn’t make my job easier,” said Christopher Kas, the coach of Sabine Lisicki.
+Kas compared it to timeouts in basketball.
+“Sometimes you take a timeout just to calm the guys down,” he said. “Sometimes you take a timeout because you see something tactical that you have to change immediately.”
+Compared with most professional leagues, tennis is a data dinosaur, more saber-toothed than sabermetric.
+Baseball, football, basketball and hockey have generated entire lexicons of analytic measures, such as WAR (wins above replacement) and P.E.R. (player efficiency rating), that help fans and insiders understand the field of play. Tennis has been slow to incorporate change of any kind, largely because of its convoluted governing structure.
+Armed with new information, tennis coaches now have a more efficient way to gather, arrange and disseminate critical metrics for on-court visits. They can also log into a database with thousands of matches on every player, which can facilitate practice sessions and scouting reports.
+The data could even narrow a talent gap.
+“The average player with a good coach can do a lot more damage now,” said Craig O’Shannessy, who runs a tennis strategy analysis company called the Brain Game and provides match analysis for the WTA, the ATP and The New York Times.
+But some cautioned about data overload, especially in the heat of competition.
+“On the court, too much information is not a good idea,” No. 14 Agnieszka Radwanska said. “All those small details are better for after the match or before the match.”
+Greater access to data will not help with technical adjustments or mental aspects of the game, two other pillars of coaching.
+It cannot indicate if a player’s serve toss is too high or if a player needs a pep talk or advice about how to attack at 30-40.
+“To get the right things out of it, I think you need a coach,” Beltz said.
+Players can also access the data, which could put coaching in a new light — good or bad. Some already travel without coaches; even Roger Federer went without one for a time.
+Some coaches are less tacticians than globe-trotting managers responsible for booking courts, picking up balls and making hotel reservations. If players expect more, it could affect job security, making coaches that much more important, or less so.
+Today’s coaches mostly cull information from YouTube, take notes by hand, or use DVD recordings of matches that some tournaments provide.
+“Most make it up for themselves,” said Kas, a doubles specialist who retired from the men’s tour last year.
+Advanced data will allow coaches to back up what they see and enhance their ability to prepare specific tactics. They can consult after matches and decide which aspects of a game need attention.
+Because players generally experience a match differently from what is seen from outside, more advanced data can help a coach reinforce tendencies with facts.
+“Sometimes you trusted your feeling, but it was not 100 percent,” Beltz said.
+At the Stanford event, players with various levels of experience said they were curious about the advanced data, even if they were not yet familiar with what it could do for their games.
+“It depends on the situation,” Kimiko Date-Krumm, 44, said. “If it’s good timing, it’s a big help.”
+Whether match-ready data further erodes the self-reliant nature of tennis is another question.
+Most sports welcome coaching. Tennis has a complicated relationship with help from the sidelines. Some criticize the WTA’s on-court coaching experiment as a departure from the mano-a-mano nature of the sport, in which coaching is not allowed once play begins (rain delays and certain competitions like the Fed Cup and the Davis Cup notwithstanding). But tennis also has a long history of illegal coaching, despite the threat of penalties and fines.
+“At the end of the day, the player still has to hit the ball,” said Nicole Pratt, a former pro from Australia, who coaches Gavrilova. “No amount of information is going to change that. I don’t think we’re messing with the game too much.”
+Most lauded the access to data as a step in the right direction and more progressive than the ATP Tour, where on-court coaching and Hawk-Eye data are not allowed. (On-court coaching is not permitted for women at the four Grand Slam tournaments.)
+From the WTA’s perspective, the new data will enrich the fan experience with more inside access to the sport.
+“We are about storytelling,” said Stacey Allaster, the WTA’s chairwoman and chief executive. “This tool will provide insights during the match and for the whole season.”
+Brad Gilbert, who has coached a number of top male players, including Andre Agassi and Andy Murray, said that no amount of information would replace watching matches live, what he calls the “eye test.” He sees advanced statistics as a complement of a coach’s work, not a replacement.
+Gilbert relies only on his memory when scouting and said that historical data could not replace seeing recent matches live because tendencies shift.
+“I trust that more than anything,” he said.
+Sitting in the players’ lounge, Piotr Wozniacki, the father and coach of fifth-ranked Caroline Wozniacki, said the new data was “very good for coaches.”
+But then he pulled out a small black notebook and said he would continue to scribble notes when scouting his daughter’s opponents.
+Caroline Wozniacki sounded skeptical that her father could make the digital leap.
+“He’s not a very technical person,” she said, “so I doubt he’ll be using the iPads and stuff because that would take a lot of teaching.”

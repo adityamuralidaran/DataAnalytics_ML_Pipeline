@@ -1,0 +1,33 @@
+For years, FuelCell Energy has been considered a company to watch. Its technology promised to help economically reduce carbon dioxide emissions from power plants, which could help combat climate change. The Danbury, Conn., company might be able to make a difference, experts said, if only it had a partner with really deep pockets.
+Now it has one.
+In an agreement announced on Thursday, Exxon Mobil said it had tightened an existing relationship with FuelCell in hopes of taking the technology from the lab to the market.
+Any commercial development is years away, warned Vijay Swarup, vice president for research and development at Exxon Mobil Research and Engineering. But, he added, “We think it’s got the possibility to be a game changer.”
+Although the companies did not disclose the size of Exxon Mobil’s investment in FuelCell, “We’re putting the necessary resources behind this to take the research to the next level,” Dr. Swarup said.
+The technology — known as carbon capture and sequestration, or C.C.S.— is an important but challenging potential solution to help reduce greenhouse gas emissions.
+The goal is to take carbon dioxide, after it is removed from exhaust steam, and to lock it away by pumping it into the ground or use it in industrial applications.
+Reducing the amount of carbon dioxide released by power plants could provide a bridge of sorts to the use of energy sources that do not emit greenhouse gases, said Emily A. Carter, founding director of the Andlinger Center for Energy and the Environment at Princeton University.
+While many climate activists demand an immediate shift to renewable power sources like solar and wind, “We’re going to be burning fossil fuels for the vast majority of our electricity for some time to come, whether we like it or not,” she said. “We desperately need C.C.S.”
+Carbon capture has not yet fulfilled its promise, in large part because of the enormous amounts of energy required in conventional processes to separate carbon dioxide from power plant exhaust and to compress it. Those processes greatly diminish the power output of the plant and raise the cost of the electricity produced.
+What Exxon Mobil’s partner brings to this thorny problem is its particular class of fuel cells — devices that generate electricity through chemical reactions.
+The company’s fuel cells are already used to provide clean energy in about 50 locations around the world but without a connection to fossil-fuel power plants, as envisioned in the new agreement.
+The fuel cells use a high-temperature molten carbonate salt mixture. Carbon dioxide flows into the fuel cell and emerges in a concentrated form that is ready for storage.
+It is this idea of matching up power plants, which produce carbon dioxide, with fuel cells that are hungry for it that led to a collaboration between Exxon Mobil and FuelCell that started more than four years ago.
+The result, at least so far in the laboratory, is that the fuel cells effectively isolate and compress the carbon dioxide while producing enough power to more than make up for the energy cost of capturing the carbon.
+Exxon Mobil estimates that a 500-megawatt power plant with these fuel cells could generate 120 megawatts of additional power, compared with a loss of 50 megawatts of power using conventional carbon capture technology.
+The company estimates that using these fuel cells with natural gas power plants could lead to a reduction of more than 90 percent in the plants’ carbon dioxide emissions, while also producing large amounts of useful hydrogen.
+FuelCell Energy’s products can also strip 70 percent of the smog-producing oxides of nitrogen from the exhaust of coal-burning power plants.
+Chip Bottone, president and chief executive officer of FuelCell Energy, said he hoped the research would lead to a process that could be incorporated in power plants around the world.
+“When you can make it affordable with private capital, everybody wins,” he said.
+Such a high-profile effort to fight climate change could be interpreted by critics of the company as an attempt to improve the public image of Exxon Mobil at a time that it is under investigation by state attorneys general and news organizations, and attacked for its past funding of organizations that denied climate change.
+Alan Jeffers, a spokesman for Exxon Mobil, said that he expected activists to accuse the company of engaging in a public relations stunt to burnish its reputation, but he added, “That’s untrue.”
+Noting the four-year history of the work with FuelCell, he said the research would continue for years to come.
+Professor Carter of Princeton said, “The idea of merging these two technologies to get something that’s greater than the sum of its parts is terrific.”
+“It’s preliminary,” she said of the collaboration, which she learned of before the official announcement.
+Her program administers a research agreement between Exxon Mobil and Princeton, and she has received a consulting fee in the past for reviewing the company’s research.
+“The proof will be in the pudding,” she added.
+Jay Faison, a Republican entrepreneur who is urging his party to support clean energy, called Exxon’s announcement a “monumental point in time for this energy transition,” adding that “when the market leader makes that move, you have to think that others aren’t far behind.”
+An expert in the carbon capture field had a more measured view.
+David Keith, a professor of physics and public policy at Harvard and the founder of a carbon capture company in Canada, said that the greatest challenge surrounding C.C.S. was not technological.
+He said the biggest need was for policies to encourage its widespread adoption, as subsidies helped make technologies like solar and wind power competitive enough to take hold.
+“The basic blockage around C.C.S. isn’t making the technology a little better,” Dr. Keith said. “It’s the policy snafu around the business case.”
+“My guess,” he added, “is that there’s something real and useful here.”

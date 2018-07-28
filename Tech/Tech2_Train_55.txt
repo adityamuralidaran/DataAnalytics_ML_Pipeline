@@ -1,0 +1,33 @@
+This week’s challenge was suggested by Po-Shen Loh, professor of mathematics at Carnegie Mellon University. After a summer of travel around the world speaking about math, Po is back at Carnegie Mellon, working with 200+ students in a unique class focused on creative problem-solving. This week he brings that creative impulse to Numberplay to acknowledge the recent birthday of Agatha Christie, the English crime novelist born on Sept. 15, 1890.
+Agatha Christie’s detective novels were based on deductive reasoning, an if-then logic codified by Aristotle and perfected by the British. This form of logic became a popular source of household entertainment in Britain and the United States in the late 1800s, giving rise to the grid puzzles and detective stories that remain popular to this day:
+1886: Arthur Conan Doyle publishes “A Study in Scarlet,” his first work featuring Sherlock Holmes and Dr. Watson
+1892: Le Siècle, a Paris daily, publishes 9 x 9 Sudoku precursor
+1896: Lewis Carroll publishes “Symbolic Logic”
+1913: Arthur Wynne, a journalist from Liverpool, publishes first known crossword
+1920: Agatha Christie publishes first novel, “The Mysterious Affair at Styles,” which introduced Hercule Poirot)
+“Eliminate all other factors, and the one which remains must be the truth,” said Sherlock Holmes in Sign of the Four, capturing the essence of deductive reasoning, which lies at the foundation of scientific research, computer programming, mathematics, and many of our puzzles here at Numberplay.
+Let’s now turn to Po and this week’s challenges. Wax your mustache, because you are now —
+You, the world’s greatest detective, have been assigned three puzzling cases, presented in increasing difficulty. Can you crack them all?
+The Demise of Mr. Gibson
+Seven people are attending a party on a deserted island in an old mansion. They are in the ballroom which has a wall of floor-to-ceiling windows that look out over the water. It is a moonless and stormy night. With a clap of thunder, the lights cut out, and there is a commotion as everybody stumbles around. Suddenly with a flash of lightning, the entire room is illuminated, revealing who scurried to the right and left sides of the ballroom. It goes dark just as quickly, and the guests hear a gunshot. The lights flicker back on to reveal that Mr. Gibson has been shot. He is barely conscious, lying in the center of the room with a gun next to him.
+“If we figure out who was on the left side of the room and who was on the right side, we can identify the shooter from the gunshot angle,” says Ms. Ashfield. “In the flash of lightning, I saw Mr. Caswell on the opposite side of the room from me,” she continues.
+“I saw Mr. Caswell on the other side from me,” says Ms. Barlow.
+“I clearly saw Mr. Everett’s face on the other side from me,” says Mr. Caswell.
+“I saw Ms. Barlow opposite from me,” says Dr. Denton.
+“I also saw Ms. Barlow opposite from me,” says Mr. Everett.
+“Ms. Ashfield was on the other side from me,” says Mrs. Freeman.
+“Mrs. Freeman and Dr. Denton were on opposite sides from each other,” gasps Mr. Gibson, as his last words.
+Exactly one of them (the shooter) is lying. Who?
+The Dastardly Crime
+Two masked people were observed fleeing the scene of a dastardly crime. You have narrowed down the list of suspects to Mrs. Abbott, Mrs. Blyth, Mr. Carter, Ms. Doyle and Mr. Edwards, exactly two of whom must be guilty. Based on hard evidence, you have deduced that:
+Mr. Carter helps elderly Mrs. Abbott move about, and so if Mrs. Abbott is guilty, then so is Mr. Carter.
+Mr. Edwards vouched for Mrs. Blyth, and so if Mr. Edwards is innocent, so is Mrs. Blyth.
+If Ms. Doyle is guilty and Mrs. Abbott is innocent, then Mr. Edwards is innocent.
+It is impossible for Mr. Carter to be guilty and Mrs. Blyth to be innocent at the same time.
+From these facts, you are able to identify the two guilty parties. Who are they?
+The Very Odd Island
+You are interrogating eight people on a very odd island. They are situated at the eight vertices of a large cube (and so 4 of them are above ground). The people are numbered in such a way that #1, #2, #3 and #4 are at the four top corners of the cube, in clockwise order, and #5, #6, #7 and #8 are on the four bottom corners of the cube, with #5 directly below #1, and #6 directly below #2, and so on. From each person’s point of view, there are three people adjacent along edges of the cube, and the other four are farther away. Each person individually counts the number of liars among the four who are farther away from themself.
+Persons #1, #2, #5 and #7 tell you that their counts are odd, and the other four tell you that their counts are even. What, if anything, can you deduce?
+Thank you, Po!
+Po is also the founder of expii.com, an education resource out to promote mathematical proficiency with a two-pronged approach: boost interest by exposing the creative and surprising side of math (through weekly puzzles), and empower people to share diverse resources for learning. The latter is provided by the rest of expii.com, which organizes openly licensed shared lessons in a conceptual map, inviting anyone to contribute. (If you liked this week’s detective puzzles, check out this recent challenge on expii.)
+Check reader comments on Friday for solutions and recap by Po-Shen Loh.

@@ -1,0 +1,9 @@
+NEW YORK —  Gemini Trust Company announced on Wednesday it is increasing oversight of its cryptocurrency trading using Nasdaq Inc's market surveillance technology to detect manipulation and fraudulent trades.
+Gemini is owned and operated by virtual currency entrepreneurs Cameron and Tyler Winklevoss.
+Nasdaq's surveillance technology called SMARTS Market Surveillance will enable Gemini to monitor all its trading pairs, including: bitcoin/U.S. dollar, ether/dollar, and bitcoin/ether, Gemini said in a statement.
+The technology will also oversee activity across the Gemini auction process used to determine the settlement price for the bitcoin/XBT futures contracts that trade on the Cboe Futures Exchange.
+Around the world, governments are debating how to regulate cryptocurrency trading, a market that critics say remains opaque and vulnerable to risks such as money laundering.
+New York Attorney General Eric Schneiderman last week sought information from 13 cryptocurrency trading platforms, including Gemini Trust, about their operations such as fee structures and safety measures to protect customer accounts.
+Bitcoin rose to a six-week high on Tuesday on the possible entry of major financial institutions into the cryptocurrency market.
+The virtual currency gained after a brutal 50 percent loss in the first quarter of the year, following a nearly 1,400 percent surge in 2017.
+(Reporting by Gertrude Chavez-Dreyfuss; Editing by Lisa Shumaker)

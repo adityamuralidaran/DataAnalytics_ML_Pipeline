@@ -1,0 +1,28 @@
+Dr. Keith Tao, a radiologist in Danville, Calif., owns three late-model Mercedeses, each equipped with a fuel-saving technology called start-stop.
+The system saves fuel and reduces emissions by cutting the engine when the car comes to a full stop and restarting when the foot is taken off the brake.
+One of the first things Dr. Tao does after starting the engine: He turns off the feature.
+The problem, Dr. Tao says, is that the stopping and restarting is rather intrusive. “You actually feel it restarting,” he said. “In terrible stop-and-go traffic this thing comes on and off constantly. In 20 minutes you can have 50 stop-and-start cycles. It can drive you totally insane.”
+Mercedes defends its technology, known as ECO Start/Stop, calling it “one of the most seamless systems,” according to Christian Bokich, a company spokesman. “Customers with any concerns always have the option of defeating the system each time they enter and start the vehicle.”
+While start-stop technology may make some people crazy, the technology is here to stay.
+That’s because manufacturers are under intense pressure to meet strict fuel economy standards by 2025 and they are using ever more creative ways to wring out every last bit of fuel efficiency from conventional gasoline and diesel engines.
+Other approaches include increasing transmissions from six speeds to nine or 10; using electric rather than mechanical power steering systems; decreasing tire rolling resistance; and directly injecting fuel at high pressure into the cylinders.
+The fuel savings with start-stop can add up. Under average driving conditions, savings are 3 percent to 5 percent. But with a lot of stops and traffic lights that stay red for extended periods, that can rise to 10 percent, said Robert Fascetti, vice president for powertrains at Ford.
+“Start-stop clearly helps use less gas,” Mr. Fascetti said. “There’s no debate. You save fuel when the engine is off.”
+Dr. Tao said he had not experienced that level of savings; he estimates the cut in fuel use to be about one mile per gallon.
+Regardless, start-stop is destined to be on the majority of cars in the next few years. Ford now has it as a standard feature on its Escape and Focus vehicles, and on some engines in its top-selling F-150 pickup trucks. Eventually, 70 percent of Ford’s models will offer it, Mr. Fascetti said.
+By the 2018 model year, all Buicks will come equipped with the technology. Currently Buick’s Encore and Envision offer it. In addition, it is available on several models from Cadillac and Chevrolet, including the ATS, Cruze, Impala and Malibu.
+At Fiat Chrysler, the Pacifica offers the technology, and “the majority of our vehicles will have it over time,” said Mike Duhaime, a Fiat Chrysler powertrain director.
+Still, not many Americans have yet experienced the technology. And despite its environmental and fuel-saving benefits, many who do have it, like Dr. Tao, don’t like it.
+“Our primary research says almost to a person, people say they turn off their stop-start systems,” said Tim Barnes, a director of product planning for Mazda in the United States.
+That’s one of the reasons that Mazda has no plans to introduce the technology in the United States, even though Mazda has been offering it in Japan since 2010.
+For the technology to work for consumers, the experience needs to be seamless, manufacturers say.
+“Restarts must be fast, smooth, with no noise and little vibration,” said Ulrich Muehleisen, head of marketing and product development for Robert Bosch, a company that has sold 15 million start-stop units in Europe since 2007.
+Most manufacturers use similar technologies to create and manage their own systems. Heavy-duty batteries provide the juice necessary for 10 times the number of starts of standard vehicles. Rugged starter motors last longer. Engine mounts are designed to be placed to minimize vibration.
+Regardless of technique, vehicles with the technology are meant to start instantaneously.
+“Take your foot off the brake and the car will start by the time you hit the accelerator,” Mr. Muehleisen said. “It’s just a couple of a hundred milliseconds,” compared to the several seconds it typically takes to start a vehicle using a key.
+Engines in the vehicles with the systems will not always stop when the vehicle does. A sophisticated set of sensors monitors the engine and cabin temperatures. If the air-conditioning needs to run continually to cool the interior, the engine will restart or stay on. In stop-and-go freeway traffic, the engine will most likely remain running to avoid repetitious, annoying restarts. And if the battery is getting close to the end of its life, the vehicle’s engine will not shut off, no matter how perfect the other road conditions are.
+In addition to customer resistance, the technology faces other obstacles to consumer acceptance.
+A vehicle’s official mileage estimates as seen in a new car’s window sticker reflect the existence of a start-stop system. But in calculating those numbers, the Environmental Protection Agency assumes that half the people who have the technology disable it, reducing the sticker appeal to fuel-economy-minded car buyers.
+And typical fuel savings also won’t save a consumer that much money. With today’s gas prices, a 5 percent savings in fuel may amount to around $40 a year, or about 80 cents a week.
+But minor cost savings and consumer disinterest are not dissuading manufacturers from introducing the technology.
+“At some point, virtually every vehicle will have stop-start,” Mr. Muehleisen of Bosch said. “Once you get used to it, you’ll wonder why the engine is running when you’re stopped. It’s like brushing your teeth with the water on.”

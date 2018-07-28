@@ -1,0 +1,8 @@
+WASHINGTON —  A telecommunications standards organization - GSMA - said on Saturday it is delaying implementation of a new cellphone technology due to a U.S. government probe of alleged coordination between the group, AT&T Inc and Verizon Communications Inc to hinder consumers from easily switching wireless carriers.
+GSMA said in a statement that the move to a global standard for eSIM technology is "on hold pending the completion of an investigation by the United States Department of Justice."
+At issue is a technology that could make carriers' business more volatile. ESIM allows consumers to switch wireless providers without having to insert a new physical SIM card, an identifying microchip. That makes it easier to compare wireless networks and easily select a new service when desired.
+"This standard contains a wide range of features, including the option for the eSIM to be locked. In the United States, consumers would have this option; however, they would need to explicitly consent to this under specific commercial agreements with their mobile operator, for example when purchasing a subsidized device," GSMA said.
+It added that it was cooperating fully with the Department of Justice.
+Verizon on Friday called the probe "much ado about nothing," adding it has been working with the Justice Department for several months "regarding the inquiry," according to spokesman Rich Young. AT&T also indicated it was they are working with the Justice Department.
+Apple Inc and other equipment makers have complained to the Justice Department about wireless carrier practices related to eSIM technology, two sources familiar with the matter said. Apple declined to comment.
+(Reporting by Diane Bartz in Washington; Writing by Ginger Gibson; Editing by Matthew Lewis)
